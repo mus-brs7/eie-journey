@@ -21,4 +21,4 @@ My first external circuit! Successfully controlled an LED on a breadboard using 
 - How to create a simple series circuit on a breadboard.
 
 ## Media
-*(We'll add a link to a picture or video later!)*
+watch the vid for demonstration /assets/blinky led .mp4
