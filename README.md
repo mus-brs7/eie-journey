@@ -13,4 +13,4 @@ To build a strong foundation in embedded systems, PCB design, and signal process
 ## Projects
 | Project Name | Status | Description |
 | :--- | :--- | :--- |
-| [Blinky Test](project-blinky/) | **Planned** | My first "Hello World" program on an STM32 board. |
+| [Blinky Test](project-blinky/) | **in progres** | My first "Hello World" program on an STM32 board. |
